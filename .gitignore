@@ -6,3 +6,5 @@
 /*.csproj
 /*.sln
 /*.user
+EntityCache
+EntityCache.meta
